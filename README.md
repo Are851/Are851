@@ -3,7 +3,7 @@ Estudiando Programación Fullstack
 
 Como contactarme roberto.arevalocabello@gmail.com
 Lenguajes y herramientas:
-![image](https://github.com/Are851/Are851/assets/128761582/cb8c902a-ebac-431c-aef6-77ac9a37835f)
+![image](https://github.com/Are851/Are851/assets/128761582/c6a28b61-abc7-4877-87f9-c9ed2da1b289)
 ![image](https://github.com/Are851/Are851/assets/128761582/9d0dc86f-c0c9-4804-8f61-d3d6706a1870)
 ![image](https://github.com/Are851/Are851/assets/128761582/db5da7a9-90bf-4b0c-bcec-8224a9aafd56)
 
