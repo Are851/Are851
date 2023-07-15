@@ -1,5 +1,4 @@
 Profesor de Ciencias politicas y estudiante de Desarrollo Web, java, javascript y  Mysql.
-https://camo.githubusercontent.com/2eb418808b622b89462bef4541be0962838d42695f6eed27b8402eee9870d8e0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4564754d2f636f756e742e7376673f
 
 Estudiando Programación Fullstack.
 
