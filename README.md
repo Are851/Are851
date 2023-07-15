@@ -10,6 +10,8 @@ Lenguajes y herramientas:
 ![image](https://github.com/Are851/Are851/assets/128761582/3e92b194-3e58-493f-b711-cbddcb36f690)
 
 
+![image](https://github.com/Are851/Are851/assets/128761582/d96ddb7b-d3dd-4c8d-86d9-61b495a7efdf)
+
 Actualmente estoy trabajando en proyectos personales para expandir mi conocimiento en diferentes áreas de la programación.
 Me encanta trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras y de alta calidad. 
 
